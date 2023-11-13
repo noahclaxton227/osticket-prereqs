@@ -22,11 +22,11 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Item 1 VM Machine
+- Item 2 Enable IIS
+- Item 3 Register PHP
+- Item 4 Assign Permisions
+- Item 5 Installed!
 
 <h2>Installation Steps</h2>
 
