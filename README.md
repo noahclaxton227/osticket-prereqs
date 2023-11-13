@@ -47,7 +47,7 @@ Creating the VM Machine
 
 </p>
 <p>
-By right clicking on start menu --> run --> control  --> programs --> turn windows features on/off --> Installs ISS webserver that osTicket runs on 
+By right clicking on start menu --> run --> control  --> programs --> turn windows features on/off --> Installs IIS (Internet Information Services) webserver that osTicket runs on 
 </p>
 <br />
 
