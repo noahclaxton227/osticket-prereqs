@@ -47,7 +47,7 @@ Creating the VM Machine
 
 </p>
 <p>
-By right clicking on start menu --> run --> control  --> programs --> turn windows features on/off --> enabling ISS
+By right clicking on start menu --> run --> control  --> programs --> turn windows features on/off --> Instal ISS webserver that osTicket runs on 
 </p>
 <br />
 
