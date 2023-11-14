@@ -25,8 +25,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Item 1 VM Machine
 - Item 2 Enable IIS
 - Item 3 Register PHP
-- Item 4 Assign Permisions
-- Item 5 Installed!
+- Item 4 Install & store osTicket
+- Item 5 Assign Permissions
+- Item 6 Complete!
 
 <h2>Installation Steps</h2>
 
@@ -57,6 +58,16 @@ By right clicking on start menu --> run --> control  --> programs --> turn windo
 </p>
 <p>
 By opening up IIS (as admin) --> PHP Manager --> Register --> PHP Folder we register PHP into IIS!
+</p>
+<br />
+
+<p>
+
+![image](https://github.com/noahclaxton227/osticket-prereqs/assets/150629711/6436e861-5b55-4e16-b827-4f188295ee9a)
+
+</p>
+<p>
+After downloading the osTicket zip file --> extracting the upload file (renamed osTicket) --> then used IIS to "Browse*:80" --> Installed!!!
 </p>
 <br />
 
