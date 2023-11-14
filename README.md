@@ -26,8 +26,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Item 2 Enable IIS
 - Item 3 Register PHP
 - Item 4 Install & store osTicket
-- Item 5 Assign Permissions
-- Item 6 Complete!
+- Item 5 Add MySQL Database and signin
+- Item 6 Completion!
 
 <h2>Installation Steps</h2>
 
@@ -72,17 +72,21 @@ After downloading the osTicket zip file --> extracting the upload file (renamed 
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+![image](https://github.com/noahclaxton227/osticket-prereqs/assets/150629711/e9f089ab-db3d-4630-b2d8-9ebc6fcfc6f4)
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Opened HeidiSQL --> Created a new database titled "osTicket" --> Plugged that into the osTicket login browser  
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  
+![image](https://github.com/noahclaxton227/osticket-prereqs/assets/150629711/4d088104-0416-4cf0-8c83-dbc6c8b4a34d)
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Complete!
 </p>
 <br />
