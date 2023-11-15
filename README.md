@@ -22,12 +22,12 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Item 1 VM Machine
-- Item 2 Enable IIS
-- Item 3 Register PHP
-- Item 4 Install & store osTicket
-- Item 5 Add MySQL Database and signin
-- Item 6 Completion!
+- Item 1: VM Machine
+- Item 2: Enable IIS
+- Item 3: Register PHP
+- Item 4: Install & store osTicket
+- Item 5: Add MySQL Database and signin
+- Item 6: Completion!
 
 <h2>Installation Steps</h2>
 
@@ -37,7 +37,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <p>
 </p>
 <p>
-Creating the VM Machine
+Created two Virtual Machines on portal.azure.com. These machines can be utilized by Remote Desktop in order to download + experiment with osTicket on a "different" operating and file system. 
 </p>
 <br />
 
@@ -48,7 +48,7 @@ Creating the VM Machine
 
 </p>
 <p>
-By right clicking on start menu --> run --> control  --> programs --> turn windows features on/off --> Installs IIS (Internet Information Services) webserver that osTicket runs on 
+By right clicking on start menu --> run --> control  --> programs --> turn windows features on/off, we install IIS (Internet Information Services), the webserver that osTicket runs on.
 </p>
 <br />
 
@@ -57,7 +57,7 @@ By right clicking on start menu --> run --> control  --> programs --> turn windo
 ![image](https://github.com/noahclaxton227/osticket-prereqs/assets/150629711/8fed1b12-155f-4013-809b-d4bf2dd2b33c)
 </p>
 <p>
-By opening up IIS (as admin) --> PHP Manager --> Register --> PHP Folder we register PHP into IIS!
+By opening up IIS (as administrator) --> PHP Manager --> Register --> PHP Folder, we register PHP into IIS!
 </p>
 <br />
 
@@ -67,7 +67,7 @@ By opening up IIS (as admin) --> PHP Manager --> Register --> PHP Folder we regi
 
 </p>
 <p>
-After downloading the osTicket zip file --> extracting the upload file (renamed osTicket) --> then used IIS to "Browse*:80" --> Installed!!!
+After downloading the osTicket zip file --> extracting the upload file (renamed osTicket) --> use IIS to "Browse*:80" --> Installed!!!
 </p>
 <br />
 
@@ -77,7 +77,7 @@ After downloading the osTicket zip file --> extracting the upload file (renamed 
 
 </p>
 <p>
-Opened HeidiSQL --> Created a new database titled "osTicket" --> Plugged that into the osTicket login browser  
+Opened HeidiSQL --> Created a new database titled "osTicket" --> Plugged that into the osTicket login browser. 
 </p>
 <br />
 
